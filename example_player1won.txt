@@ -1,0 +1,542 @@
+Start a new Battle! 
+
+Player1's info: 
+Basic Abilities: 
+ - Health: 56
+ - Strength: 14
+ - Constitution: 14
+ - Dexterity: 14
+ - Charisma: 14
+Gear Info: 
+
+
+Player2's info: 
+Basic Abilities: 
+ - Health: 48
+ - Strength: 12
+ - Constitution: 12
+ - Dexterity: 12
+ - Charisma: 12
+Gear Info: 
+
+Assign gears to players. 
+
+BELTSLARGE
+Position in my bag: 7
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 10
+ - Effect On Charisma: 10
+ - Effect On Dexterity: 0
+
+BELTSLARGE
+Position in my bag: 8
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 12
+ - Effect On Charisma: 12
+ - Effect On Dexterity: 0
+
+BELTSLARGE
+Position in my bag: 9
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 14
+ - Effect On Charisma: 14
+ - Effect On Dexterity: 0
+
+BELTSMEDIUM
+Position in my bag: 5
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 6
+ - Effect On Charisma: 6
+ - Effect On Dexterity: 0
+
+BELTSMEDIUM
+Position in my bag: 6
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 8
+ - Effect On Charisma: 8
+ - Effect On Dexterity: 0
+
+BELTSSMALL
+Position in my bag: 3
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 2
+ - Effect On Charisma: 2
+ - Effect On Dexterity: 0
+
+BELTSSMALL
+Position in my bag: 4
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 4
+ - Effect On Charisma: 4
+ - Effect On Dexterity: 0
+
+FOOTWEAR
+Position in my bag: 10
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 0
+ - Effect On Charisma: 0
+ - Effect On Dexterity: 1
+
+FOOTWEAR
+Position in my bag: 11
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 0
+ - Effect On Charisma: 0
+ - Effect On Dexterity: 3
+
+FOOTWEAR
+Position in my bag: 12
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 0
+ - Effect On Charisma: 0
+ - Effect On Dexterity: 5
+
+HEADGEAR
+Position in my bag: 0
+ - Effect On Health: 0
+ - Effect On Constitution: 3
+ - Effect On Strength: 0
+ - Effect On Charisma: 0
+ - Effect On Dexterity: 0
+
+HEADGEAR
+Position in my bag: 1
+ - Effect On Health: 0
+ - Effect On Constitution: 2
+ - Effect On Strength: 0
+ - Effect On Charisma: 0
+ - Effect On Dexterity: 0
+
+HEADGEAR
+Position in my bag: 2
+ - Effect On Health: 0
+ - Effect On Constitution: 5
+ - Effect On Strength: 0
+ - Effect On Charisma: 0
+ - Effect On Dexterity: 0
+
+PORION
+Position in my bag: 13
+ - Effect On Health: 2
+ - Effect On Constitution: 2
+ - Effect On Strength: 2
+ - Effect On Charisma: 2
+ - Effect On Dexterity: 2
+
+PORION
+Position in my bag: 14
+ - Effect On Health: 4
+ - Effect On Constitution: 4
+ - Effect On Strength: 4
+ - Effect On Charisma: 4
+ - Effect On Dexterity: 4
+
+PORION
+Position in my bag: 15
+ - Effect On Health: 6
+ - Effect On Constitution: 6
+ - Effect On Strength: 6
+ - Effect On Charisma: 6
+ - Effect On Dexterity: 6
+
+PORION
+Position in my bag: 16
+ - Effect On Health: 8
+ - Effect On Constitution: 8
+ - Effect On Strength: 8
+ - Effect On Charisma: 8
+ - Effect On Dexterity: 8
+
+PORION
+Position in my bag: 17
+ - Effect On Health: 10
+ - Effect On Constitution: 10
+ - Effect On Strength: 10
+ - Effect On Charisma: 10
+ - Effect On Dexterity: 10
+
+PORION
+Position in my bag: 18
+ - Effect On Health: 12
+ - Effect On Constitution: 12
+ - Effect On Strength: 12
+ - Effect On Charisma: 12
+ - Effect On Dexterity: 12
+
+PORION
+Position in my bag: 19
+ - Effect On Health: 14
+ - Effect On Constitution: 14
+ - Effect On Strength: 14
+ - Effect On Charisma: 14
+ - Effect On Dexterity: 14
+
+
+BELTSLARGE
+Position in my bag: 7
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 11
+ - Effect On Charisma: 11
+ - Effect On Dexterity: 0
+
+BELTSLARGE
+Position in my bag: 8
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 13
+ - Effect On Charisma: 13
+ - Effect On Dexterity: 0
+
+BELTSLARGE
+Position in my bag: 9
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 15
+ - Effect On Charisma: 15
+ - Effect On Dexterity: 0
+
+BELTSMEDIUM
+Position in my bag: 4
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 5
+ - Effect On Charisma: 5
+ - Effect On Dexterity: 0
+
+BELTSMEDIUM
+Position in my bag: 5
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 7
+ - Effect On Charisma: 7
+ - Effect On Dexterity: 0
+
+BELTSMEDIUM
+Position in my bag: 6
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 9
+ - Effect On Charisma: 9
+ - Effect On Dexterity: 0
+
+BELTSSMALL
+Position in my bag: 2
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 1
+ - Effect On Charisma: 1
+ - Effect On Dexterity: 0
+
+BELTSSMALL
+Position in my bag: 3
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 3
+ - Effect On Charisma: 3
+ - Effect On Dexterity: 0
+
+FOOTWEAR
+Position in my bag: 10
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 0
+ - Effect On Charisma: 0
+ - Effect On Dexterity: 2
+
+FOOTWEAR
+Position in my bag: 11
+ - Effect On Health: 0
+ - Effect On Constitution: 0
+ - Effect On Strength: 0
+ - Effect On Charisma: 0
+ - Effect On Dexterity: 4
+
+HEADGEAR
+Position in my bag: 0
+ - Effect On Health: 0
+ - Effect On Constitution: 4
+ - Effect On Strength: 0
+ - Effect On Charisma: 0
+ - Effect On Dexterity: 0
+
+HEADGEAR
+Position in my bag: 1
+ - Effect On Health: 0
+ - Effect On Constitution: 1
+ - Effect On Strength: 0
+ - Effect On Charisma: 0
+ - Effect On Dexterity: 0
+
+PORION
+Position in my bag: 12
+ - Effect On Health: 1
+ - Effect On Constitution: 1
+ - Effect On Strength: 1
+ - Effect On Charisma: 1
+ - Effect On Dexterity: 1
+
+PORION
+Position in my bag: 13
+ - Effect On Health: 3
+ - Effect On Constitution: 3
+ - Effect On Strength: 3
+ - Effect On Charisma: 3
+ - Effect On Dexterity: 3
+
+PORION
+Position in my bag: 14
+ - Effect On Health: 5
+ - Effect On Constitution: 5
+ - Effect On Strength: 5
+ - Effect On Charisma: 5
+ - Effect On Dexterity: 5
+
+PORION
+Position in my bag: 15
+ - Effect On Health: 7
+ - Effect On Constitution: 7
+ - Effect On Strength: 7
+ - Effect On Charisma: 7
+ - Effect On Dexterity: 7
+
+PORION
+Position in my bag: 16
+ - Effect On Health: 9
+ - Effect On Constitution: 9
+ - Effect On Strength: 9
+ - Effect On Charisma: 9
+ - Effect On Dexterity: 9
+
+PORION
+Position in my bag: 17
+ - Effect On Health: 11
+ - Effect On Constitution: 11
+ - Effect On Strength: 11
+ - Effect On Charisma: 11
+ - Effect On Dexterity: 11
+
+PORION
+Position in my bag: 18
+ - Effect On Health: 13
+ - Effect On Constitution: 13
+ - Effect On Strength: 13
+ - Effect On Charisma: 13
+ - Effect On Dexterity: 13
+
+PORION
+Position in my bag: 19
+ - Effect On Health: 15
+ - Effect On Constitution: 15
+ - Effect On Strength: 15
+ - Effect On Charisma: 15
+ - Effect On Dexterity: 15
+
+
+Players can now choose gears to equip, enter the gear with right position in your bag. 
+
+Now assign weapons! 
+
+Player1's info: 
+Basic Abilities: 
+ - Health: 112
+ - Strength: 98
+ - Constitution: 62
+ - Dexterity: 73
+ - Charisma: 98
+Gear Info: 
+ - HEADGEAR
+  + Effect On Constitution: 2
+ - PORION 
+  + Effect On Health: 2
+  + Effect On Constitution: 2
+  + Effect On Strength: 2
+  + Effect On Charisma: 2
+  + Effect On Dexterity: 2
+  + Duration: 2
+ - PORION 
+  + Effect On Health: 4
+  + Effect On Constitution: 4
+  + Effect On Strength: 4
+  + Effect On Charisma: 4
+  + Effect On Dexterity: 4
+  + Duration: 4
+ - PORION 
+  + Effect On Health: 6
+  + Effect On Constitution: 6
+  + Effect On Strength: 6
+  + Effect On Charisma: 6
+  + Effect On Dexterity: 6
+  + Duration: 6
+ - PORION 
+  + Effect On Health: 8
+  + Effect On Constitution: 8
+  + Effect On Strength: 8
+  + Effect On Charisma: 8
+  + Effect On Dexterity: 8
+  + Duration: 8
+ - PORION 
+  + Effect On Health: 10
+  + Effect On Constitution: 10
+  + Effect On Strength: 10
+  + Effect On Charisma: 10
+  + Effect On Dexterity: 10
+  + Duration: 10
+ - PORION 
+  + Effect On Health: 12
+  + Effect On Constitution: 12
+  + Effect On Strength: 12
+  + Effect On Charisma: 12
+  + Effect On Dexterity: 12
+  + Duration: 12
+ - PORION 
+  + Effect On Health: 14
+  + Effect On Constitution: 14
+  + Effect On Strength: 14
+  + Effect On Charisma: 14
+  + Effect On Dexterity: 14
+  + Duration: 14
+ - BELTSLARGE
+  + Effect On Strength: 12
+  + Effect On Charisma: 12
+
+ - BELTSLARGE
+  + Effect On Strength: 14
+  + Effect On Charisma: 14
+
+ - BELTSSMALL
+  + Effect On Strength: 2
+  + Effect On Charisma: 2
+
+ - FOOTWEAR
+  + Effect On Dexterity: 3
+Weapon Info: 
+ - KATANAS
+  + Damage: 6
+
+
+Player2's info: 
+Basic Abilities: 
+ - Health: 112
+ - Strength: 93
+ - Constitution: 67
+ - Dexterity: 78
+ - Charisma: 93
+Gear Info: 
+ - HEADGEAR
+  + Effect On Constitution: 1
+ - PORION 
+  + Effect On Health: 1
+  + Effect On Constitution: 1
+  + Effect On Strength: 1
+  + Effect On Charisma: 1
+  + Effect On Dexterity: 1
+  + Duration: 1
+ - PORION 
+  + Effect On Health: 3
+  + Effect On Constitution: 3
+  + Effect On Strength: 3
+  + Effect On Charisma: 3
+  + Effect On Dexterity: 3
+  + Duration: 3
+ - PORION 
+  + Effect On Health: 5
+  + Effect On Constitution: 5
+  + Effect On Strength: 5
+  + Effect On Charisma: 5
+  + Effect On Dexterity: 5
+  + Duration: 5
+ - PORION 
+  + Effect On Health: 7
+  + Effect On Constitution: 7
+  + Effect On Strength: 7
+  + Effect On Charisma: 7
+  + Effect On Dexterity: 7
+  + Duration: 7
+ - PORION 
+  + Effect On Health: 9
+  + Effect On Constitution: 9
+  + Effect On Strength: 9
+  + Effect On Charisma: 9
+  + Effect On Dexterity: 9
+  + Duration: 9
+ - PORION 
+  + Effect On Health: 11
+  + Effect On Constitution: 11
+  + Effect On Strength: 11
+  + Effect On Charisma: 11
+  + Effect On Dexterity: 11
+  + Duration: 11
+ - PORION 
+  + Effect On Health: 13
+  + Effect On Constitution: 13
+  + Effect On Strength: 13
+  + Effect On Charisma: 13
+  + Effect On Dexterity: 13
+  + Duration: 13
+ - PORION 
+  + Effect On Health: 15
+  + Effect On Constitution: 15
+  + Effect On Strength: 15
+  + Effect On Charisma: 15
+  + Effect On Dexterity: 15
+  + Duration: 15
+ - BELTSMEDIUM
+  + Effect On Strength: 5
+  + Effect On Charisma: 5
+
+ - BELTSMEDIUM
+  + Effect On Strength: 9
+  + Effect On Charisma: 9
+
+ - BELTSSMALL
+  + Effect On Strength: 3
+  + Effect On Charisma: 3
+
+ - FOOTWEAR
+  + Effect On Dexterity: 2
+Weapon Info: 
+ - BROADSWORD
+  + Damage: 10
+
+Now Battle begins! 
+
+Player1's turn to attack!
+The attacker caused 43 points damage!
+The opponent has 69 points health left!
+
+Player2's turn to attack!
+The attacker caused 39 points damage!
+The opponent has 73 points health left!
+
+Player1's turn to attack!
+The attacker caused 38 points damage!
+The opponent has 30 points health left!
+
+Player2's turn to attack!
+The attacker caused 39 points damage!
+The opponent has 32 points health left!
+
+Player1's turn to attack!
+The attacker caused 39 points damage!
+The opponent has -12 points health left!
+Game Over!
+Already Game Over!
+Player1 won the game!
+Already Game Over!
+Player1 won the game!
+
+
+ Replay the game? 
+
+Enter 'Y' to replay. 
