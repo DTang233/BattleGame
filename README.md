@@ -20,6 +20,7 @@ The model should use the player information to create a battle between two playe
 - two players to battle in the arena. As players enter the arena, the player with the higher charisma dazzles their opponent and gets in the first strike.
 
 **`Battle Interface` has the following functions:**
+
 Assign gears to players.
 ```sh
 void assignGears()
