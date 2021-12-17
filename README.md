@@ -45,10 +45,6 @@ Get information of current round.
 String getRoundInfo()
 ```
 
-## How To Run
-To run the ```.jar``` file, we don't need to pass any arguments. All the examples are initialized in the ```class Driver``` . After players were assigned gears and checked the content in myBag, by entering the gear with the right position in my bag, players can now choose gears to equip. For example ```p1.equipGears(p1.getGearsInMyBag().get(8), p1.getGearsInMyBag().get(9),p1.getGearsInMyBag().get(3), p1.getGearsInMyBag().get(6), p1.getGearsInMyBag().get(11),p1.getGearsInMyBag().get(1), p1.getGearsInMyBag().get(13), p1.getGearsInMyBag().get(14),p1.getGearsInMyBag().get(15), p1.getGearsInMyBag().get(16), p1.getGearsInMyBag().get(17),p1.getGearsInMyBag().get(18), p1.getGearsInMyBag().get(19))```
-Then two players can play the game. If one wants to rematch the game, read the instruction and type ```Y```after the game ends.
-
 ## How to Use the Program
 See the run example in Driver class ```example_player1won.txt```
 
